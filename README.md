@@ -41,7 +41,7 @@ Multi-Agency Response System (MARS) ,
 Divert wellness, domestic, and low-risk calls to EMS, social services, and community teams ,
 Community Awareness Campaign - Educate residents on when to use 311 vs 911 ,
 Reallocate Resources to High-Demand Boroughs ,
-Add a new patrol or redistribute officers—focus on Bronx ,
+Add a new patrol or redistribute officers - focus on Bronx ,
 Time-Based Staffing - Align scheduling with hourly and seasonal peaks ,
 Improve response on high-Duration Call Types ,
 Target rotational tows & suspect holding for workflow improvement (AI-enabled triaging).
