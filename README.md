@@ -9,9 +9,9 @@ d. Reduce NYPD workload by diverting non-criminal calls
 e. Improve coordination across responder agencies (NYPD, FDNY, EMS, etc.)
 
 ## 3. Dataset
-https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Historic
-Focusing on 2023-2024
-15 million columns
+https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Historic , 
+Focusing on 2023-2024 , 
+15 million columns , 
 Key Fields-CAD_EVNT_ID,INCIDENT_DATE,INCIDENT_TIME,BORO_NM,PATRL_BORO_NM,GEO_CD_X,GEO_CD_Y,TYP_DESC,CIP_JOBS,DISP_TS,CLOSNG_TS,Latitude, Longitude
 
 ## 4. Data Cleaning & Preparation
@@ -26,24 +26,24 @@ Column titles were revised for clarity and relevance, and call descriptions were
 - Load index
 
 ## 6. Key Insights
-Borough with highest call volume
-Call types with highest frequency
-Response time variations
-Peak call hours and months
-Percentage of repeat callers
+Borough with highest call volume ,
+Call types with highest frequency ,
+Response time variations ,
+Peak call hours and months ,
+Percentage of repeat callers ,
 Workload distribution across patrol boroughs
 
 ## 8. Tools Used
 Tableau 
 
 ## Recommendations
-Multi-Agency Response System (MARS)
-Divert wellness, domestic, and low-risk calls to EMS, social services, and community teams.
-Community Awareness Campaign - Educate residents on when to use 311 vs 911.
-Reallocate Resources to High-Demand Boroughs
-Add a new patrol or redistribute officers—focus on Bronx.
-Time-Based Staffing - Align scheduling with hourly and seasonal peaks.
-Improve response on high-Duration Call Types
+Multi-Agency Response System (MARS) ,
+Divert wellness, domestic, and low-risk calls to EMS, social services, and community teams ,
+Community Awareness Campaign - Educate residents on when to use 311 vs 911 ,
+Reallocate Resources to High-Demand Boroughs ,
+Add a new patrol or redistribute officers—focus on Bronx ,
+Time-Based Staffing - Align scheduling with hourly and seasonal peaks ,
+Improve response on high-Duration Call Types ,
 Target rotational tows & suspect holding for workflow improvement (AI-enabled triaging).
 
 ## 10. Limitations
