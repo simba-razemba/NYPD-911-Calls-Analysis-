@@ -37,14 +37,7 @@ Workload distribution across patrol boroughs
 Tableau 
 
 ## Recommendations
-Multi-Agency Response System (MARS) ,
-Divert wellness, domestic, and low-risk calls to EMS, social services, and community teams ,
-Community Awareness Campaign - Educate residents on when to use 311 vs 911 ,
-Reallocate Resources to High-Demand Boroughs ,
-Add a new patrol or redistribute officers - focus on Bronx ,
-Time-Based Staffing - Align scheduling with hourly and seasonal peaks ,
-Improve response on high-Duration Call Types ,
-Target rotational tows & suspect holding for workflow improvement (AI-enabled triaging).
+The analysis supports the implementation of a Multi-Agency Response System (MARS) to improve operational efficiency by diverting wellness checks, domestic incidents, and other low risk calls to EMS, social services, or trained community response teams where appropriate. A complementary community awareness campaign could help educate residents on the appropriate use of 311 versus 911, reducing unnecessary emergency dispatches. Resource allocation should be adjusted to reflect demand patterns, including redistributing officers or adding patrol capacity in high demand boroughs such as the Bronx. Staffing schedules should also be aligned with identified hourly and seasonal peak periods to better match service demand. Operational improvements could focus on reducing bottlenecks associated with high duration call types, as well as streamlining processes such as rotational towing and suspect holding through AI enabled triaging systems to improve workflow efficiency and response times.
 
 ## 10. Limitations
 -Limited Time Coverage: The dataset contains complete information only for 2023–2024. Data for 2025 was not available at the time of analysis, limiting the ability to evaluate longer-term trends or recent changes in call patterns.
